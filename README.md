@@ -1,8 +1,8 @@
-# SafeShift
-Vanilla WoW addon for druids that improves shapeshifting functionality.
+# SafeShift Turtle WoW Edition
+SafeShift fix for Turtle WoW. 
 
 ## Installation
-Extract into your "World of Warcraft/Interface/Addons" folder. If downloaded directly, rename "SafeShift-master" to "SafeShift".
+Extract into your "World of Warcraft/Interface/Addons" folder. If downloaded directly, rename "SafeShift-TWoW-main" to "SafeShift-TWoW".
 
 ## Features
 * Switch between forms without manually unshifting (example: while in bear form, spam travel form key to shift to travel form).
