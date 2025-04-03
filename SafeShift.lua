@@ -33,7 +33,7 @@ SafeShift:RegisterEvent("ADDON_LOADED")
 SafeShift:RegisterEvent("UPDATE_SHAPESHIFT_FORMS")
 
 function SafeShift:OnEvent()
-	if event == "ADDON_LOADED" and arg1 == "SafeShift" then
+	if event == "ADDON_LOADED" and arg1 == "SafeShift-TWoW" then
 		-- Our saved variables, if they exist, have been loaded at this point.
 		if SafeShiftOptions == nil then
 			-- This is the first time this addon is loaded; set SVs to default values
