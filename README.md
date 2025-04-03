@@ -1,5 +1,5 @@
 # SafeShift Turtle WoW Edition
-SafeShift fix for Turtle WoW. 
+SafeShift-TWoW fixes the issues of the original 'SafeShift' addon caused by Turtle WoW’s changes, allowing players to instantly switch between forms without deshifting first.
 
 ## Installation
 Extract into your "World of Warcraft/Interface/Addons" folder. If downloaded directly, rename "SafeShift-TWoW-main" to "SafeShift-TWoW".
